@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     if len(argv) - 1 == 0:
         print("0")
-    """ PYTHON """
+
     else:
         sum = 0
         for b in range(len(argv) - 1):
